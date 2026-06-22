@@ -33,11 +33,11 @@ It wrote the code, ran away, and now the game is unplayable.
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. user enters guess of 6
+2. Game returns "Go higher"
+3. user enters guess of 19
+4. game returns "Go higher'
+5.game ends when attempts expire or when the correct guess is acquired
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
